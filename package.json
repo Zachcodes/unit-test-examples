@@ -1,0 +1,16 @@
+{
+  "name": "unit-testing-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "massive": "^5.11.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
